@@ -12,6 +12,8 @@
 
 ## **Thonny**
 
+> Thonny is an app that allows us to observe the script execution process step by step.
+
 ![Alt thonny.org](pic/05.jpg)
 
 ![Alt install thonny](pic/06.jpg)
@@ -41,3 +43,6 @@
 ### _replace print()_
 
 ![Alt replace input() with None](pic/15.jpg)
+
+- With Thonny we can observe the details of each step of the script execution process, but usually only a few lines of code are copied from the .replit as needed for analysis.
+- Because .replit share code functionality is too good to use, so we mainly coding on it, instead of Thonny.
