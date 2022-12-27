@@ -24,6 +24,8 @@
 
 ![Alt IndentationError](pic/07.jpg)
 
+- In python, special attention must be paid to whether there are unnecessary indentations at the start of each instruction line.
+
 - When we encounter an error, we will directly throw the error message in the console into google and usually find the answer in stack overflow.
 - It is best to be familiar with and even remember what each error message means.
 
