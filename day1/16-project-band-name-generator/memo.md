@@ -9,6 +9,8 @@
 
 ![Alt .replit IDE and hints](pic/02.jpg)
 
+- So you can start writing codes, and there are already some hints above.
+
 ## **My Solution**
 
 ![Alt solution](pic/03.jpg)
