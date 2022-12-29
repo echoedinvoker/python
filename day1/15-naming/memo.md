@@ -1,4 +1,4 @@
-## **Meaningfull Naming**
+## **Better Meaningfull Naming**
 
 ![Alt meaningfull name](pic/01.jpg)
 
