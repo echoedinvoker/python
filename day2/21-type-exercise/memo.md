@@ -13,6 +13,7 @@
 ![Alt check type](pic/04.jpg)
 
 - Although the value entered by the user is of the string type and cannot be calculated mathematically, the subscripting feature of the string can be used to separate the two digits.
+  - So in turn, if you want to separate the number of each digit, first convert it to a string type will be very easy to deal with, like below.
 
 ![Alt solution](pic/05.jpg)
 
