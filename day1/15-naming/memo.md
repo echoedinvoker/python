@@ -3,6 +3,7 @@
 ![Alt meaningfull name](pic/01.jpg)
 
 - It is better to give meaning to the name of the variable to make it readable.
+- Even if we name the variables with meaningless names, there is no error, but it makes the code less readable.
 
 ## **Naming rules**
 
