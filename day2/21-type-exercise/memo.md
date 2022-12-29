@@ -6,9 +6,13 @@
 
 ![Alt .replit](pic/03.jpg)
 
+- Above is the part of the .replit file that has already been written.
+
 ## **Solution**
 
 ![Alt check type](pic/04.jpg)
+
+- Although the value entered by the user is of the string type and cannot be calculated mathematically, the subscripting feature of the string can be used to separate the two digits.
 
 ![Alt solution](pic/05.jpg)
 
