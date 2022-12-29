@@ -4,9 +4,13 @@
 
 ![Alt assign result value to variable](pic/02.jpg)
 
+- In python, we don't need to declare variables.
+
 ## **"Variable" implies it can be reassign**
 
 ![Alt reassign values to variable](pic/03.jpg)
+
+- In python, we can even reassign different types of values to variables, which is different from other languages.
 
 ## **Deconstruct Nested Functions**
 
