@@ -18,6 +18,9 @@
 
 ![Alt written condition statement](pic/04.jpg)
 
+- In python, no need to use parentheses to wrap condition and no need to use curly baskets to wrap code block of statements.
+  - Instead of parentheses and curly baskets, python use colon and indentation.
+
 ## **indentation in python**
 
 ![Alt indent mistake](pic/05.jpg)
