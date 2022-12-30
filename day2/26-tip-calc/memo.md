@@ -35,3 +35,9 @@
 ### _Solution_
 
 ![alt](pic/08.jpg)
+
+## **Use your program anywhere :)**
+
+![alt](pic/09.jpg)
+
+![alt](pic/10.jpg)
