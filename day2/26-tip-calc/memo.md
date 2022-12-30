@@ -13,3 +13,19 @@
 ### _Lecture solution_
 
 ![Alt lecture solution](pic/04.jpg)
+
+## **If we want to limit float result format, how?**
+
+### _Additional demand_
+
+![alt](pic/05.jpg)
+
+### _Do survey on internet_
+
+![alt](pic/06.jpg)
+
+![alt](pic/07.jpg)
+
+### _Solution_
+
+![alt](pic/08.jpg)
