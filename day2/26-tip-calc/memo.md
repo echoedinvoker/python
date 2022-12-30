@@ -41,3 +41,5 @@
 ![alt](pic/09.jpg)
 
 ![alt](pic/10.jpg)
+
+- Another option is that you can just install replit app on your cell phone.
