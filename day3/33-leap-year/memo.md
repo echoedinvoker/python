@@ -18,6 +18,8 @@
 
 ![Alt my flowchart](pic/04.jpg)
 
+- I think being able to draw the right flowchart is even more important than codes.
+
 ### _Codes by myself_
 
 ![Alt exist codes](pic/05.jpg)
