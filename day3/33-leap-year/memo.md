@@ -4,6 +4,8 @@
 
 ![Alt key text](pic/01.jpg)
 
+- Sometimes understanding the customer's needs is the most difficult step.
+
 ### _Example input/output_
 
 ![Alt example input/output](pic/02.jpg)
