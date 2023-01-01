@@ -20,7 +20,7 @@
 
 ![Alt my solution](pic/05.jpg)
 
-### _Lector's solution_
+### _Lector's solution(transfer to multiple if)_
 
 ![Alt lector's solution](pic/06.jpg)
 
