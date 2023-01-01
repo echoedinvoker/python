@@ -49,3 +49,5 @@
 ### _console result_
 
 ![Alt console result](pic/10.jpg)
+
+> The key is to figure out whether you should indent, which codes block is the same indent these things, Python in many very difficult to solve the bug are due to the indent problem.
