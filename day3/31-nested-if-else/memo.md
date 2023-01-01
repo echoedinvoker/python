@@ -24,6 +24,8 @@
 
 ## **More then 2-ways conditions**
 
+> Let's slightly change the question to increase the number of possible outcomes of the condition to three.
+
 ### _Not only 2-ways results of condition_
 
 ![Alt more complex condition (3-ways)](pic/06.jpg)
