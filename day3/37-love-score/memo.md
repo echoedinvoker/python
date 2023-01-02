@@ -26,4 +26,4 @@
   1. Calculation of the score.
      - Needs to know how to lower string and count words.
   2. Different suggestions for different score ranges.
-     - Only simply logic operators test.
+     - Only need to know how to use logic operators in the conditions.
