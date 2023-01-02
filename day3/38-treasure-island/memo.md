@@ -12,6 +12,8 @@
 
 ## **Lector's Flowchart**
 
+> Lector has drawn the flowchart of the game for us, just turn it into a program, of course, you can also add your own game content.
+
 ![Alt flowchart by lector](pic/03.jpg)
 
 ## **Codes Solutions**
@@ -23,3 +25,5 @@
 ### _Different from lector's solution_
 
 ![Alt diff between lector's solution](pic/05.jpg)
+
+- Lector adds "\n" at the end of each input string so that the user input will not follow the question but on the next line, making the game text more readable.
