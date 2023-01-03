@@ -19,3 +19,5 @@
 ### _Lector's solution_
 
 ![Alt lector's solution](pic/05.jpg)
+
+- Lector's writing style is more readable and I should learn from it.
