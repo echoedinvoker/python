@@ -1,5 +1,7 @@
 ## **Project: Create a password generator**
 
+> Create a code generator that can be customized according to the number of letters, symbols, and values required by the user.
+
 ![Alt project question and existed codes](pic/01.jpg)
 
 - Lector has already written part of the code for us.
