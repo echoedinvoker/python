@@ -16,4 +16,4 @@
 
 ![Alt solution](pic/04.jpg)
 
-- The variables that need to be culculated, if it is number type(integer or float), initial value set to 0 is a very common practice, if it is not fit to the requirements of the topic then you need to use other initial value to deal with it.
+- The variables that need to be culculated in loop, if it is number type(integer or float), initial value set to 0 is a very common practice, if it is not fit to the requirements of the topic then you need to use other initial value to deal with it.
