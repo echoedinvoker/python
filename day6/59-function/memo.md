@@ -10,6 +10,8 @@
 
 ![Alt definition and call custom function](pic/03.jpg)
 
+- Define function does not execute its own instructions; you must call the function to execute the instructions belong to it.
+
 ### _Parameter/Argument_
 
 ![Alt definition parameter and passing argument into function](pic/04.jpg)
