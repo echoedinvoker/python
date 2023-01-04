@@ -16,6 +16,8 @@
 
 ![Alt existed codes](pic/04.jpg)
 
+- Lector has helped us to solve the input part and convert the values in the list to integer type.
+
 ## **My solution**
 
 ![Alt solution](pic/05.jpg)
