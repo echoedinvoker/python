@@ -12,6 +12,9 @@
 
 ![Alt existed codes](pic/03.jpg)
 
+- Because python is often used in calculations, it provides many very convenient functions such as max() that can be used directly to solve this problem.
+  - But we may not have these convenient functions when converting to other languages, so lector wants us to be able to complete the problem without using max().
+
 ## **My solution**
 
 ![Alt solution](pic/04.jpg)
