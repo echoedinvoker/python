@@ -10,6 +10,8 @@
 
 ![Alt ascii arts by lector](pic/03.jpg)
 
+- In addition to helping us write out the ascii arts for each stage of the hanging man, lector also put them into a list, and the order is meaningful.
+
 ### _Comment hints_
 
 ![Alt hint and existed codes by lector](pic/04.jpg)
@@ -31,6 +33,8 @@
 - After comparing flowchart, we can see more clearly why lector uses nested if statements.
 
 ### _Further optimize by flowchart_
+
+> From the flowchart above, we found that there are still some parts that can be optimized.
 
 ![Alt compare to flowchart2](pic/08.jpg)
 
