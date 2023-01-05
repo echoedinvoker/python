@@ -24,10 +24,14 @@
 
 ![Alt compare to lector's](pic/06.jpg)
 
-### \_Compare to flowchart
+### _Compare to flowchart_
 
 ![Alt compare to flowchart](pic/07.jpg)
+
+- After comparing flowchart, we can see more clearly why lector uses nested if statements.
 
 ### _Further optimize by flowchart_
 
 ![Alt compare to flowchart2](pic/08.jpg)
+
+- According to flowchart we can move some codes to the code block of the user's guessed letter to increase performance.
