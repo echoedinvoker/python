@@ -19,3 +19,4 @@
 ![Alt compare to lector's](pic/04.jpg)
 
 - My way of writing has fewer codes because it saves a variable, but Lector's method is more readable and is more suitable when the code is more complex.
+- It is important to have logic in the while loop that can change the while condition, otherwise it will cause infinite loops, maybe it is because of this so that lector created the end_of_game variable.
