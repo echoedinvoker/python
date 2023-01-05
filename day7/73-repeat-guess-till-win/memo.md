@@ -2,6 +2,8 @@
 
 ![Alt wanted result](pic/01.jpg)
 
+- Add the result of the previous lecture to the while loop so that the user can guess the letter repeatedly until all the letters are guessed.
+
 ## **Hint comment and existed codes**
 
 ![Alt hint](pic/02.jpg)
