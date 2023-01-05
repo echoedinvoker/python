@@ -1,0 +1,33 @@
+## **Wanted Result**
+
+![Alt wanted result 1](pic/01.jpg)
+
+![Alt wanted result 2](pic/02.jpg)
+
+## **Existed codes and comment hints by lector**
+
+### _ASCII Arts in list_
+
+![Alt ascii arts by lector](pic/03.jpg)
+
+### _Comment hints_
+
+![Alt hint and existed codes by lector](pic/04.jpg)
+
+## **Solutions**
+
+### _Mine_
+
+![Alt my solution](pic/05.jpg)
+
+### _Compare to lector's_
+
+![Alt compare to lector's](pic/06.jpg)
+
+### \_Compare to flowchart
+
+![Alt compare to flowchart](pic/07.jpg)
+
+### _Further optimize by flowchart_
+
+![Alt compare to flowchart2](pic/08.jpg)
