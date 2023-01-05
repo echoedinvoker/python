@@ -39,3 +39,4 @@
 ![Alt compare to flowchart2](pic/08.jpg)
 
 - According to flowchart we can move some codes to the code block of the user's guessed letter to increase performance.
+- I guess coding while referring to flowchart will produce a more efficient script, at least from the above exercise.
