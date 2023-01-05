@@ -2,6 +2,8 @@
 
 ![Alt maze](pic/01.jpg)
 
+- so basic strategy to escape the maze is simple, just following right side wall.
+
 ## **Solutions**
 
 ### _My solution_
