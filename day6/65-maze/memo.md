@@ -26,7 +26,7 @@
 
 - So I added a variable num = 4 to determine if there are no walls connected, and if so, move out of this position.
 
-### \_Compare to Lector's solution
+### _Compare to Lector's solution_
 
 ![Alt compare to lector's](pic/06.jpg)
 
