@@ -14,7 +14,7 @@
 
 ![Alt TODO-3: deal with number/symbol/space](pic/04.jpg)
 
-### _Re-run or exit app according to user's wishes_
+### _TODO-4: Re-run or exit app according to user's wishes_
 
 ![Alt TODO-4: re-run app (except print logo) if user want](pic/05.jpg)
 
