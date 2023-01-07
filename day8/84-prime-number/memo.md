@@ -27,3 +27,4 @@
 ![Alt compare to lector's](pic/07.jpg)
 
 - Lector separates the detail components to accomplish the goal of this function, and then adds the variables needed to link the code between components, like "is_prime" above.
+  - In contrast, the scripts I write are much more complex, and making them simple is the goal to strive for.
