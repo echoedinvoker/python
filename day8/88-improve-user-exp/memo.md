@@ -25,3 +25,5 @@
 ## **Compare to lector's solution**
 
 ![Alt Compare to lector's](pic/07.jpg)
+
+- Although my codes work fine, there is no special reason to put the codes in red in function caesor(), which makes the logic unclear.
