@@ -5,3 +5,5 @@
 ## **My solution**
 
 ![Alt my solution](pic/02.jpg)
+
+- In fact, it's very simple, only the yellow sentence needs attention.
