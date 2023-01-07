@@ -25,3 +25,5 @@
 ### _Compare to lector's_
 
 ![Alt compare to lector's](pic/07.jpg)
+
+- Lector separates the detail components to accomplish the goal of this function, and then adds the variables needed to link the code between components, like "is_prime" above.
