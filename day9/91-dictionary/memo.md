@@ -4,9 +4,17 @@
 
 ## **Good habit to deal with dict**
 
+### _Better formatter_
+
 ![Alt better format](pic/02.jpg)
 
+- We usually organize the dict into a more readable format as above, but pay special attention to how to indent it.
+
+### _End every entry with a comma_
+
 ![Alt good habitL - end with comma](pic/03.jpg)
+
+- It is recommended to use comma at the end of each entry to make it less prone to make errors.
 
 ## **Get value from dictionary**
 
