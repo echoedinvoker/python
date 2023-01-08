@@ -8,6 +8,8 @@
 
 ![Alt existed codes and comments by lector](pic/02.jpg)
 
+- Notice how lector calls add_new_country, which contains the parameters we need to write in.
+
 ## **Solutions**
 
 ### _Mine_
@@ -17,3 +19,5 @@
 ### _Compare to Lector's_
 
 ![Alt compare to lector's](pic/04.jpg)
+
+- lector's approach may have more line of code to create empty dictionary, but there is no indentation at all so that the readability is higher.
