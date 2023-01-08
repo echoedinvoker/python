@@ -32,6 +32,9 @@
 
 ![Alt add entry, type of key/value](pic/08.jpg)
 
+- The data in a dict, whether it is a key or a value, has no restrictions on its type.
+  - This is more similar to a map in JS than an object.
+
 ## **Empty dict & Wipe all contents of dict**
 
 ![Alt empty/wipe](pic/09.jpg)
@@ -42,4 +45,8 @@
 
 ![Alt iterate dict](pic/11.jpg)
 
+- So the keys in dict can be iterated, which is similar to the map in JS, where the object is not an iteration.
+
 ![Alt iterate dict (including key and value)](pic/12.jpg)
+
+- This concept is actually as same as map in JS.
