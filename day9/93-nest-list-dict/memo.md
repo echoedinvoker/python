@@ -2,7 +2,7 @@
 
 ![Alt simple dict](pic/01.jpg)
 
-- Above is a simple dictionary, recording the capital of each country.
+- Above is a simple dictionary, recording the capital of each country is enough.
 
 ![Alt needs for multiple values of a key](pic/02.jpg)
 
