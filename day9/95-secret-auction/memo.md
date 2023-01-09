@@ -18,6 +18,10 @@
 
 - The hesitation is whether to split the "Ask if there are other buyers" and "Are there other buyers" into two units, if so "Clear console" can be put in front of the if logic unit, which is more in line with the actual program writing content and does not need to repeat it in the flowchart.
 
+![Atl fc2](pic/11.jpg)
+
+- The above is to split the "ask if ..." into "action" and "if" two units, so that "Clear console" can be moved in front of the if logic unit without repeating itself.
+
 ## **Google Survey**
 
 ### _do...while in Python_
