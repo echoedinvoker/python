@@ -37,3 +37,5 @@
 ## **My solution**
 
 ![Alt my solution](pic/10.jpg)
+
+- If you have a habit of setting the while condition as an exclusive variable, simulate the do... . while logic is very natural.
