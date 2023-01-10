@@ -16,4 +16,6 @@
 
 ## **Why not just print in the function?**
 
+> lector said many students will have this doubt, the next lecture will have the answer.
+
 ![Alt question](pic/04.jpg)
