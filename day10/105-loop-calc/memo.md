@@ -18,11 +18,15 @@
 
 ![Alt test](pic/04.jpg)
 
+- It seems to be running very well.
+
 ### _Compare to Lector's_
 
 ![Alt compare to lector's](pic/05.jpg)
 
 ## **Replace exit with restart calculator**
+
+> If we restart the calculator instead of exit in case the user selects 'n', how to implement it.
 
 ### _Solution_
 
