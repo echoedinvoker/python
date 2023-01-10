@@ -29,3 +29,7 @@
 ![Alt python game - walkthrough](pic/10.jpg)
 
 ![Alt python game - walkthrough](pic/11.jpg)
+
+## **Hints**
+
+![Alt hints](pic/12.jpg)
