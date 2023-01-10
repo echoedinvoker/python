@@ -46,3 +46,4 @@
 
 - The focus of this lecture is on why we use dict to save functions, and what are the benefits?
 - The name of a function is like a variable, which holds the value of the function, and we can assign it to other variables just like a normal variable.
+- Just as we wrap meaningful values in lists, we wrap related functions in dict, and since functions are inherently purposeful, the fact that dict contains a key makes it more suitable for wrapping functions instead of using list.
