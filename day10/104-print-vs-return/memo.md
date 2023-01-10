@@ -5,3 +5,5 @@
 ## **Return value can easily been used for another function's input**
 
 ![Alt for using as another function's input](pic/02.jpg)
+
+- In addition to explaining the reasons, we also completed the second calculation using the first result above.
