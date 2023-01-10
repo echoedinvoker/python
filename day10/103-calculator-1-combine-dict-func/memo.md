@@ -43,3 +43,6 @@
 ![Alt lector's answer 1](pic/10.jpg)
 
 ![Alt lector's answer 2](pic/11.jpg)
+
+- The focus of this lecture is on why we use dict to save functions, and what are the benefits?
+- The name of a function is like a variable, which holds the value of the function, and we can assign it to other variables just like a normal variable.
