@@ -33,3 +33,5 @@
 ## **Hints**
 
 ![Alt hints](pic/12.jpg)
+
+- lector suggests writing out some breakdown and then drawing a flowchart, cutting a huge job into smaller pieces before starting coding.
