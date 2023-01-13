@@ -8,7 +8,7 @@
 
 ![Alt += in local scope](pic/02.jpg)
 
-### _Define local variable to do it_
+### _Define local variable to do it(local)_
 
 ![Alt solve error](pic/03.jpg)
 
