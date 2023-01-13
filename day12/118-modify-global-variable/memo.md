@@ -25,6 +25,7 @@
 ![Alt better just...](pic/05.jpg)
 
 - Try not to modify global variables in the local scope, as this can easily cause confusion and errors.
+  - Even if you use the method with keyword "global", try not to use it (because you usually only need to use keyword "global" if you need to modify global variables in local scope)
 
 ## **Better way to modify global variable by function**
 
