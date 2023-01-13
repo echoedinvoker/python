@@ -2,7 +2,9 @@
 
 ![Alt same name and assign in local scope](pic/01.jpg)
 
-## ** += in local scope**
+- Although the same name, but two completely different variables.
+
+## **+= in local scope**
 
 ![Alt += in local scope](pic/02.jpg)
 
