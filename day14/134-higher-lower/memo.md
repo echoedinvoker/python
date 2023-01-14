@@ -69,3 +69,10 @@
 ![Alt finish](pic/14.jpg)
 
 - It feels like just completing each simple little function step by step, and the whole app is naturally finished.
+
+## **Compare to lector's**
+
+- lector and my coding method are poles apart, she is using comments to describe the method of scattering the work into small pieces and then coding directly at the top level, not like I first draw flowchart and directly plan the function and its input/output on the diagram. But still some points I learn from:
+  - Do not print in the function, use return to export the data you need to print to the outside before you print.
+    - `print(render())`
+  - I forgot lower() the user inputs "A", "B".
