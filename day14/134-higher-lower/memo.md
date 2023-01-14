@@ -67,3 +67,5 @@
 ### _finish_
 
 ![Alt finish](pic/14.jpg)
+
+- It feels like just completing each simple little function step by step, and the whole app is naturally finished.
