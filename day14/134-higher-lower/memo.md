@@ -4,15 +4,31 @@
 
 ![Alt play game 2](pic/02.jpg)
 
+- The blue part does not appear for the first time (before any guesses).
+
 ![Alt play game 3](pic/03.jpg)
+
+- After each user input, the entire screen will be deleted and rendered again.
 
 ## **Files**
 
+### _art.py_
+
 ![Alt provided file 1: art](pic/04.jpg)
+
+- lector already provides the required ASCII art.
+
+### _game_data.py_
 
 ![Alt provided file 2: data](pic/05.jpg)
 
+- lector provides the required data, which we use to make the game.
+
+### _main.py_
+
 ![Alt main.py](pic/06.jpg)
+
+- empty, we must write the logic of the game itself from scratch.
 
 ## **Flowchart**
 
@@ -24,7 +40,11 @@
 
 ![Alt flowchart(functionalized)](pic/08.jpg)
 
+- It is important to clarify the input/output of each funtion.
+
 ## **Coding**
+
+> Remember, try to avoid using global variables, unless they are constants
 
 ### _game_
 
