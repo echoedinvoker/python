@@ -30,7 +30,7 @@
 
 ![Alt game()](pic/09.jpg)
 
-### \_pick2
+### _pick2_
 
 ![Alt pick2()](pic/10.jpg)
 
