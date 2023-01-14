@@ -59,3 +59,5 @@
 ![Alt refactor name again](pic/11.jpg)
 
 ![Alt so smart](pic/12.jpg)
+
+- A normal text editor will not distinguish between a function and a string, and will replace it as long as it matches the searched keyword, while pyCharm's refactor is much smarter.
