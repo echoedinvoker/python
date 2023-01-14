@@ -38,6 +38,8 @@
 
 ![Alt structure](pic/05.jpg)
 
+- The structure function comes in handy when we have a lot of variables or functions straggling around in different parts of the script.
+
 ## **Refactor name**
 
 ![Alt refactor name 1](pic/06.jpg)
