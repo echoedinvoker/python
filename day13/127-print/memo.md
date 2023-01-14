@@ -6,7 +6,7 @@
 
 ![Alt add print in appropriate place](pic/02.jpg)
 
-## **Type command on concole to test part of instruction**
+## **Type command on console to test part of instruction**
 
 ![Alt test part of the instruction](pic/03.jpg)
 
