@@ -8,7 +8,7 @@
 
 ![Alt codes whith problem & questions](pic/02.jpg)
 
-- Try to describe the flow of the program and your own assumptions.
+- Try to describe the flow of the program and find out your own assumptions.
 
 ### _Test assumptions_
 
