@@ -41,6 +41,7 @@
 ![Alt flowchart(functionalized)](pic/08.jpg)
 
 - It is important to clarify the input/output of each funtion.
+- This can be constructed from top to bottom using abstraction, but note that the output/input of each function must be absolutely strictly defined.
 
 ## **Coding**
 
@@ -53,6 +54,10 @@
 ### _pick2_
 
 ![Alt pick2()](pic/10.jpg)
+
+- random.sample is a useful command from stack overflow, lector works by using random.choice plus while to get two different items from the list.
+- Here we use zip() to combine the two iteraters and then make a loop.
+- random.sample
 
 ### _intro_
 
