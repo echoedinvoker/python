@@ -8,15 +8,21 @@
 
 ![Alt 3 flavours ](pic/02.jpg)
 
+- This coffee machine offers three different coffee choices, each with different ingredients and prices.
+
 ### _Resources control_
 
 ![Alt initial resources](pic/03.jpg)
+
+- The above diagram shows the three resources that will be available at the beginning of the coffee machine, which will be used when making coffee.
 
 ### _Coin operated_
 
 ![Alt coin operated](pic/04.jpg)
 
-## \*\*Program requirements
+- This coffee machine only accepts these four types of coins, paper money or card or even electronic payment are not accepted.
+
+## **Program requirements**
 
 ![Alt program requirements](pic/05.jpg)
 
@@ -34,6 +40,8 @@
 
 ![Alt Walkthrough: report](pic/06.jpg)
 
+- We can check the current resources at any time by entering `report`.
+
 ### _Coin operated_
 
 ![Alt Walkthrough: coin operated (not enough)](pic/07.jpg)
@@ -48,6 +56,8 @@
 
 ## **PyCharm prepare & TODO**
 
+> We started using pyCharm to complete our project.
+
 ### _Create project_
 
 ![Alt pyCharm: New Project](pic/11.jpg)
@@ -56,6 +66,8 @@
 
 ### _Get Data from replit_
 
+> Because the sharing feature of replit is still very convenient, so the data written by lector for us is put on replit, and we have to copy it to the pyCharm file ourselves.
+
 ![Alt pyCharm: copy paste data from replit](pic/13.jpg)
 
 ![Alt pyCharm: move data to data.py](pic/16.jpg)
@@ -63,5 +75,7 @@
 ![Alt pyCharm: import data to main.py](pic/17.jpg)
 
 ### _TODO_
+
+> pyCharm has a TODO tracking feature, which makes it easier for us to break down our work into smaller chunks.
 
 ![Alt pyCharm: TODO](pic/18.jpg)
