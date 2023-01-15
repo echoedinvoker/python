@@ -34,6 +34,14 @@ j
 
 ![Alt color turtle](pic/11.jpg)
 
+### _Why lector know so much knowledge about turtle..._
+
+- Lector isn't magician... she just checks Turtle's documents.
+  - https://docs.python.org/3/library/turtle.html
+  - https://cs111.wellesley.edu/reference/colors
+
+### _Try to let Timmy walk 100 steps by checking documents_
+
 ![Alt check document](pic/12.jpg)
 
 ![Alt](pic/13.jpg)
