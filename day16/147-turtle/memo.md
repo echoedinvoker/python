@@ -4,6 +4,8 @@
 
 ## **pyCharm symbol and practice**
 
+> In this lecture, we will use the class Turtle written by others to practice, and we will often use the classes in the library written by others in the future.
+
 ### _class_
 
 ![Alt class symbol of pyCharm](pic/02.jpg)
