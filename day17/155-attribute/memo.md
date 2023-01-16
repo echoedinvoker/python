@@ -22,9 +22,11 @@
 
 ![Alt __init__ will be called when...](pic/06.jpg)
 
-## **Create Attributes by **init\*\*\*\*
+## **Create Attributes by \_\_init\_\_**
 
 ![Alt create attribute by __init__](pic/07.jpg)
+
+- self represents the object in the "creating object from the class" procedure.
 
 ![Alt coding __init__ to create attribute](pic/08.jpg)
 
