@@ -18,6 +18,10 @@
 
 ![Alt pass](pic/05.jpg)
 
+- In addition to class, this is also the case for creating functions, because it is a syntax problem.
+
 ## **Naming class**
 
 ![Alt PascalCase](pic/06.jpg)
+
+- In Python, we rarely use the camalCase method of naming.
