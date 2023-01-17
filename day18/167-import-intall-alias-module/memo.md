@@ -24,11 +24,17 @@
 
 ## **install module by pyCharm**
 
+> When installing python, we install some small modules together, such as turtle, but there are many more modules that we have to install manually before we can import.
+
 ![Alt install by pyC](pic/09.jpg)
+
+- pyCharm will automatically detect whether the module is installed or not, and you can let pyCharm help us install it as above.
 
 ![Alt gen()](pic/10.jpg)
 
 ## **PyPi**
+
+> We will look for other modules at PyPi.
 
 ![Alt google pypi](pic/11.jpg)
 
