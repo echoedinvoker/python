@@ -30,7 +30,7 @@
 
 ## **Go back to Turtle documents for detail**
 
-> After we get the answer we want on the web, if we want to know more about how to use function/method, we have to go back to documents.
+> After we get the answer we want on the web, if we want to know more about how to use function/method, we have to go back to documents for the details.
 
 ![Alt check docs for detail](pic/10.jpg)
 
