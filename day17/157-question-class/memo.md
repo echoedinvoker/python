@@ -6,6 +6,8 @@
 
 ## **Concept fo Question class**
 
+> In order to complete the quiz game, we need to have a blueprint to generate each question entity first.
+
 ![Alt Question class](pic/03.jpg)
 
 ![Alt Question object](pic/04.jpg)
