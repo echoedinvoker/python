@@ -20,7 +20,7 @@
 
 ![Alt solution](pic/05.jpg)
 
-## \*\*Challenge 2: method of QuizBrain
+## **Challenge 2: method of QuizBrain**
 
 ![Alt challenge method of QuizBrain](pic/06.jpg)
 
