@@ -2,7 +2,7 @@
 
 ### _List of dicts_
 
-> The data we often get from the internet API is in this format.
+> The data we often get from the internet API is in this format. We call it raw data.
 
 ![Alt original data](pic/01.jpg)
 
