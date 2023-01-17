@@ -19,4 +19,6 @@
 
 ![Alt my solution](pic/04.jpg)
 
+- Don't be afraid to name too long, the only thing you are afraid of is not being able to read your previous codes after a long period of time.
+
 ![Alt use it to loop question in main.py](pic/05.jpg)
