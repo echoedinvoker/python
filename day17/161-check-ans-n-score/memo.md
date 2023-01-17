@@ -8,6 +8,8 @@
 
 ![Alt result what we wanted](pic/02.jpg)
 
+- The new method is used to check whether the answer is correct or incorrect, and to record the score, so the new attribute "score" should be added as well.
+
 ## **My solution**
 
 ### _codes_
