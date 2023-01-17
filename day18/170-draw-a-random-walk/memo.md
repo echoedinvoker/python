@@ -8,6 +8,8 @@
 
 ### _Start from basic element: A step_
 
+> I'm trying to get used to starting with the most basic elements...
+
 ![Alt my sol: basic element](pic/02.jpg)
 
 ### _Add more logic on basic: for loop_
