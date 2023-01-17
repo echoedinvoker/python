@@ -2,6 +2,9 @@
 
 ![Alt design new method of QuizBrain](pic/01.jpg)
 
+- lector really makes what each function/method does as single and simple as possible.
+  - Compared to lector, I always think function/method contains multiple features is better, maybe I'm wrong.
+
 ## **Challenge: build new method and use it to loop question**
 
 ### _flowchart_
