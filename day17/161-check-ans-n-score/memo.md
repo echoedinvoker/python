@@ -16,6 +16,8 @@
 
 ![Alt my solution](pic/03.jpg)
 
+- Instead of having one function/method handle multiple jobs, it is permissible and common to split each job into separate functions/methods, and even for methods to call each other, seperating jobs is more important.
+
 ### _test_
 
 ![Alt test it](pic/04.jpg)
