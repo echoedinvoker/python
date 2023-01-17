@@ -8,6 +8,8 @@
 
 ### _Remove alerts_
 
+> You can see that there are 15 alerts on the top right, although it does not affect the operation of the program, but it is good practice to clear alerts.
+
 ![Alt alerts 1: no last line](pic/02.jpg)
 
 ![Alt alerts 2: missing indentation](pic/03.jpg)
