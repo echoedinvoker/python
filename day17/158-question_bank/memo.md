@@ -2,6 +2,8 @@
 
 ### _List of dicts_
 
+> The data we often get from the internet API is in this format.
+
 ![Alt original data](pic/01.jpg)
 
 ### _Remove alerts_
@@ -22,6 +24,8 @@
 
 ## **List of objects**
 
+> Instead of using the raw data directly, we usually convert it to a list of objects format, which prevents typo and other errors from occurring.
+
 ![Alt list of objects](pic/09.jpg)
 
 ### _Challenge_
@@ -31,3 +35,5 @@
 ![Alt my sol](pic/11.jpg)
 
 ![Alt compare to lector's](pic/12.jpg)
+
+- I found that I always ignore readability when writing programs, just want to finish the script quickly, but in fact readability is very important.
