@@ -12,9 +12,13 @@
 
 ## **from module import everything**
 
+> We must avoid using this way, but we may see it in other people's code, so it is still important to understand.
+
 ![Alt import every](pic/06.jpg)
 
 ![Alt *](pic/05.jpg)
+
+- This is a very bad way to do it, because we will not know the source of what we are using.
 
 ## **module alias**
 
