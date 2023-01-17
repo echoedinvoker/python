@@ -14,6 +14,12 @@
 
 ![Alt challenge](pic/05.jpg)
 
+### _My solution_
+
 ![Alt create Question class](pic/06.jpg)
 
+### _Compare to Lector's_
+
 ![Alt compare to lector's](pic/07.jpg)
+
+- But by convention, the parameter name of \_\_init\_\_ will be the same as that of attribute.
