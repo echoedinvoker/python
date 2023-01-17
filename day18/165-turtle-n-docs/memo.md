@@ -41,6 +41,7 @@
 ![Alt table of tk color strings](pic/13.jpg)
 
 - The previous table is text only, lecture provides some links to websites with color examples to obtain TK color string data.
+  - Here you should realize that the base layer of Turtle Graphic is actually made based on the TKint package, which is a common GUI package in Python.
 
 ## **GUI**
 
