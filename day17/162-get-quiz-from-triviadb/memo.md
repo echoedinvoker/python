@@ -8,7 +8,11 @@
 
 ## **Replace data from it and format data**
 
+### _replace old data with new_
+
 ![Alt copy paste data ](pic/03.jpg)
+
+### _format data_
 
 ![Alt reformat data 1](pic/04.jpg)
 
