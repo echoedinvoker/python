@@ -1,5 +1,7 @@
 ## **Outside quiz source: Open Trivia DB**
 
+> Fortunately, there is a quiz-generating webpage and API available on the web for free.
+
 ![Alt opentdb](pic/01.jpg)
 
 ![Alt generate api](pic/02.jpg)
