@@ -4,7 +4,7 @@
 
 ![Alt generate api](pic/02.jpg)
 
-## **Rplace data from it**
+## **Replace data from it**
 
 ![Alt copy paste data ](pic/03.jpg)
 
