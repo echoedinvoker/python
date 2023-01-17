@@ -8,6 +8,9 @@
 
 ![Alt class QuizBrain design](pic/02.jpg)
 
+- questions_list is indeed just to store list of objects.
+- Later I found out that in fact the only demand of lector for method is to print the correct string using input.
+
 ### _Goal_
 
 ![Alt what we want to do this lecture](pic/03.jpg)
