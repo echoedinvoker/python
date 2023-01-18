@@ -10,6 +10,8 @@
 
 ![Alt section of using screen events](pic/03.jpg)
 
+- There are some event listener-related methods in this section of the document.
+
 ![Alt screen start listen... then...?](pic/04.jpg)
 
 ### _add event listener_
