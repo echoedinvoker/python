@@ -1,6 +1,10 @@
 ## **RGB color**
 
+### _random TK string colours vs. random RGB colours_
+
 ![Alt named colours vs random rgb colours](pic/01.jpg)
+
+- The right side is the result of using random RGB values, which is obviously more varied than the left side, and we are going to implement the right side in this lecture.
 
 ![Alt pencolor documents](pic/02.jpg)
 
