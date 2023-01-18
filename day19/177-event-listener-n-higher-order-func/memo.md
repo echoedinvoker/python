@@ -20,9 +20,14 @@
 
 - The argument of a function in Python can be a function, which is common in Python.
   - Note that when a function is assigned to a parameter, it must have only the name and no parentheses.
+- Note that when the method is not written by yourself, try to use the keyword argument instead of the position argument.
 
 ## **Higher order function**
 
 ![Alt concept of higher order function](pic/07.jpg)
+
+> Higher Order is the concept of comparison, higher order function itself may become the input of other function, then the other side is higher order function relative to each other.
+
+### _simple example: caculator_
 
 ![Alt use higher order function into calculator](pic/08.jpg)
