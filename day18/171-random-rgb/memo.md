@@ -21,3 +21,5 @@
 ### _My solution_
 
 ![Alt my solution](pic/07.jpg)
+
+- Some methods are more suitable for attaching to a class, such as the colormode() above.
