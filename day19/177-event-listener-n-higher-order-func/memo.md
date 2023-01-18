@@ -4,6 +4,9 @@
 
 ![Alt image of turtle event listeners](pic/01.jpg)
 
+- In order for the turtle to interact with the user's response, we must rely on turtle event listeners.
+- Especially in the game production there will be a lot of event listeners to provide entertainment with player interaction.
+
 ### _let screen start listen..._
 
 ![Alt doc of listen](pic/02.jpg)
