@@ -12,4 +12,6 @@
 
 ### _Lector's way and further optimize_
 
+![Alt](pic/05.jpg)
+
 ![Alt lector's answer and more](pic/03.jpg)
