@@ -1,5 +1,7 @@
 ## **PyPi: cologram**
 
+> lector suggests using cologram to complete this lecture's challenge.
+
 ![Alt pypi colorgram](pic/01.jpg)
 
 ## **Challenge: Extract RGB tuples from hirst painting image**
