@@ -18,6 +18,9 @@
 
 ![Alt codes onkey](pic/06.jpg)
 
+- The argument of a function in Python can be a function, which is common in Python.
+  - Note that when a function is assigned to a parameter, it must have only the name and no parentheses.
+
 ## **Higher order function**
 
 ![Alt concept of higher order function](pic/07.jpg)
