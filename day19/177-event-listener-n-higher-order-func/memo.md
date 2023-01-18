@@ -17,6 +17,8 @@
 
 ![Alt screen start listen... then...?](pic/04.jpg)
 
+- .listen() just makes the screen start listening but what to listen to and what to trigger are not defined.
+
 ### _add event listener_
 
 ![Alt doc of onkey (event listener)](pic/05.jpg)
