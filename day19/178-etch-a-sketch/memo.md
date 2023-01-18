@@ -7,6 +7,7 @@
 ![Alt my solution](pic/02.jpg)
 
 - The method I found at first was screen.clear(), but after searching for documents I came across turtle.reset() and tried it out and found it was exactly what I wanted.
+- I found it impossible to rotate and move turtle at the same time.
 
 ## **Lector's way**
 
@@ -25,3 +26,5 @@
 ### _turn turtle with heading way_
 
 ![Alt lector - heading way](pic/07.jpg)
+
+- Still can't turn and move at the same time :(
