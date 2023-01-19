@@ -17,3 +17,5 @@
 ### _compare to lector's_
 
 ![Alt lector's](pic/05.jpg)
+
+- The lector's position coordinates are given fixed values directly, without the need for calculation but with less flexibility.
