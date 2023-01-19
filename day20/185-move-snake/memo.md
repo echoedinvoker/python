@@ -20,6 +20,8 @@
 
 ![Alt second try](pic/06.jpg)
 
+- Previously, .forward() had an effect similar to sleep() because the animation itself took time, but now that it is turned off, sleep() must be added.
+
 ## **Challenge 2: Moving with turning**
 
 ### _Instruction_
@@ -30,8 +32,14 @@
 
 ![Alt try turn 1st segment](pic/08.jpg)
 
+- Obviously it is not working to just let the first segment change direction. But hard to image another solution...
+
 ### _Change the logic of moving_
+
+> So the logic of moving forward may have to be replaced with a different approach.
 
 ![Alt change the logic of moving](pic/09.jpg)
 
 ![Alt test it](pic/10.jpg)
+
+- After changing the forward logic, it is easy to change direction, just control the first segment and the following ones will follow naturally.
