@@ -1,8 +1,10 @@
-## **Screen setup**
+## **Screen setup & coordinate system**
 
 ![Alt screen setup](pic/01.jpg)
 
 ## **Screen input**
+
+> as same as normal input, but belong to screen object.
 
 ![Alt doc: screen.textinput](pic/02.jpg)
 
@@ -29,3 +31,5 @@
 ### _compare to lector's_
 
 ![Alt compare to lector's](pic/09.jpg)
+
+- The lector approach is much simpler, but uses less flexibility.
