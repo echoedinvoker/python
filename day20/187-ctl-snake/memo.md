@@ -31,3 +31,5 @@
 ### _implement it_
 
 ![Alt implement above answer](pic/13.jpg)
+
+- Obviously more responsive to the keystroke, but it becomes a recursive, so be more careful with this part of the codes in the future.
