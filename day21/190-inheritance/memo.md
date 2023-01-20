@@ -18,6 +18,8 @@
 
 ![Alt practice in codes](pic/06.jpg)
 
+- It may seem strange that we can use parent methods by calling the constructor of the parent class in the constructor of the child class, but that is exactly what happens!!
+
 ### _Modify method from parent class_
 
 ![Alt modify method from parent class](pic/07.jpg)
