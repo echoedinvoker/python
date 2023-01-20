@@ -10,7 +10,7 @@
 
 ![Alt practice in codes (list)](pic/02.jpg)
 
-- The [::-1] part is a bit odd, in theory it should feel like [0] [-1] [-2] ... So the first value should still be "a", but it starts with "g" in [-1].
+- The [::-1] (reverse) part is a bit odd, in theory it should feel like [0] [-1] [-2] ... So the first value should still be "a", but it starts with "g" in [-1].
 
 ### _tuple_
 
