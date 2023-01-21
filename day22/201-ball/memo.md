@@ -9,3 +9,5 @@
 ## **Solution: part 2 - Let the ball moving**
 
 ![Alt solution: part 2 - let ball moving](pic/03.jpg)
+
+- Just get the ball moving, start with the simple.
