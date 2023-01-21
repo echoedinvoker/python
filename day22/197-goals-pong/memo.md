@@ -23,6 +23,10 @@
 7. Make a paddle and miss the ball.
 8. Make a scoreboard with continuous scoring
 
+### _Pieces of works which need to be done_
+
+- In this case, the items listed are similar to those in "small steps" above, so I won't repeat them.
+
 ### _Lector's steps_
 
 ![Alt steps by lector's](pic/02.jpg)
