@@ -12,4 +12,4 @@
 
 ![Alt result](pic/03.jpg)
 
-- The lector was made so that both paddles were human-operated, but I wanted to make it so that it could be played as a single player.
+- The lector is made so that both paddles are human-operated, but I only made the left paddle human-operated to make the game suitable for single player.
