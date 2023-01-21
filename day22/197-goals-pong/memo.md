@@ -4,6 +4,8 @@
 
 ## **Challenge: Breakign down the problem into small steps and classes**
 
+> When faced with a complex project, the first step is to think about how to break it down into simpler elements such as the small tasks that need to be done, the steps that need to be taken, and which parts can be made into classes.
+
 ![Alt challenge: Breaking down the problem into small steps and classes](pic/01.jpg)
 
 ### _Classes_
