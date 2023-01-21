@@ -30,4 +30,6 @@
 ### _Lector's steps_
 
 ![Alt steps by lector's](pic/02.jpg)
-lector has only figured out the steps first, but which classes are expected to be made is not yet expained.
+
+- lector has only figured out the steps first, but which classes are expected to be made is not yet expained.
+- Almost exactly the same as my own steps.
