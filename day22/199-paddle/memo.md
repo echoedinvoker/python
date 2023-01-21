@@ -14,15 +14,23 @@
 
 ![Alt .exitonclick](pic/05.jpg)
 
+- This step was later found to be a bit redundant.
+
 ![Alt shapesize keyword arguments](pic/06.jpg)
 
+- lector uses keyword arguments to give arguments, so you can guess what these values mean in terms of multiples.
+
 ![Alt global constants of Paddle](pic/07.jpg)
+
+- Increase script readability with global constants.
 
 ## **Challenge 2: Control the paddle up & down**
 
 ### _listener and methods_
 
 ![Alt up & down](pic/08.jpg)
+
+### _remove .exitonclick()_
 
 ![Alt remove method esp for exitonclick](pic/09.jpg)
 
