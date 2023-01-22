@@ -19,3 +19,5 @@
 ### _My solution_
 
 ![Alt my solution](pic/04.jpg)
+
+- lector uses a different approach to this part than I do, she uses sleep() to control it, the sleep() argument allows for decimals such as 0.0001, but .ontimer() doesn't seem to.
