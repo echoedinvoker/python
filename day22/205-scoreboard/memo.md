@@ -6,6 +6,8 @@
 
 ### _Add section for updating scores_
 
+> The part of \_\_init\_\_ that draws the scores needs to be used repeatedly, so I can make this part a method.
+
 ![Alt create methods to refresh scores](pic/02.jpg)
 
 ## **Challenge: Modify speed of ball according to scores**
