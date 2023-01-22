@@ -4,11 +4,13 @@
 
 ![Alt init codes](pic/01.jpg)
 
+- lector has written some constants and screen parts for us, but has not yet drawn any turtle.
+
 ## **Draw init status of turtle**
 
-![Alt static init turtle](pic/02.jpg)
+> Let's start with the initial state and not think about making other complicated parts, because everything is difficult at the beginning, so let's try to make the beginning as simple as possible.
 
-- lector has written some constants and screen parts for us, but has not yet drawn any turtle.
+![Alt static init turtle](pic/02.jpg)
 
 ## **Implement movement functionality**
 
