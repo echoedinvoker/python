@@ -14,6 +14,8 @@
 
 ![Alt with ... as](pic/04.jpg)
 
+- This is a better way to open file in my opinion, because the original method often forgets to use .close() to close the file.
+
 ## **Write data into file**
 
 ![Alt try to write](pic/05.jpg)
@@ -29,3 +31,5 @@
 ![Alt write data to non-existed file](pic/08.jpg)
 
 ![Alt result](pic/09.jpg)
+
+- Only mode='w' can create new file.
