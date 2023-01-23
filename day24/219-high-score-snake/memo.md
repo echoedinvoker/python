@@ -1,5 +1,7 @@
 ## **RESET of scoreboard**
 
+> When a snake game collides, the GAME OVER message will no longer appear, but the highest score and snake will be updated.
+
 ![Alt replace game_over with reset (scoreboard)](pic/01.jpg)
 
 ## **RESET of snake**
