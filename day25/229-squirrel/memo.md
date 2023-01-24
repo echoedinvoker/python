@@ -18,6 +18,10 @@
 
 ![Alt my solution](pic/05.jpg)
 
+- Series.unique(), pandas.isna(), Series.value_counts() are the answers obtained by asking ChatGPT, but it is important to pay attention to the type of the values they return, or optionally, to look them up in the Pandas documentation.
+
 ### _Compare to lector's_
 
 ![Alt compare to lector's](pic/06.jpg)
+
+- A more interesting point is that although the DataFrame object is a 2D data structure, it is also an iterator.
