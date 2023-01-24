@@ -1,5 +1,7 @@
 ## **Types of Datas in Pandas**
 
+> All the features of Pandas revolve around its two data structures - DataFrame and Series.
+
 ### _DataFrame object_
 
 ![Alt DataFrame object](pic/01.jpg)
@@ -14,11 +16,15 @@
 
 ![Alt docs API reference data structure](pic/04.jpg)
 
+- DataFrame and Series are the most important of all topics.
+
 ## **Dive into documents of DataFrame**
 
 ![Alt docs DataFrame](pic/05.jpg)
 
 ![Alt docs DataFrame.to_dict()](pic/06.jpg)
+
+- The Pandas documentation explains each method even more clearly and comprehensively than the Python documentation.
 
 ### _Practice_
 
@@ -34,6 +40,8 @@
 
 ![Alt practice Series.to_list()](pic/10.jpg)
 
+- Until we are familiar with Pandas, we may be tempted to convert a series into a list, but then we find that Pandas itself provides much more powerful methods.
+
 ## **Challenge: calc the average temperature**
 
 ### _instruction_
@@ -45,6 +53,8 @@
 ![Alt my sol by list method](pic/12.jpg)
 
 ### _Compare to lector's_
+
+> lector chooses to check the Pandas documents directly to see if there is a suitable method that can be used.
 
 ![Alt docs Series.mean()](pic/13.jpg)
 
@@ -71,6 +81,7 @@
 ![Alt get values of column](pic/18.jpg)
 
 - result is Series object.
+  - And each Series object is stored in the attribute of the DataFrame corresponding to the header name.
 
 ### _values of specific row_
 
@@ -97,6 +108,8 @@
 ![Alt what type of row of data](pic/24.jpg)
 
 ![Alt attr of row of data](pic/25.jpg)
+
+- Be very clear about what type of data you are getting in each of the above processes.
 
 ## **Challenge: Convert Monday's temperature to fahrenheit**
 
