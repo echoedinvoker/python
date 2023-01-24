@@ -129,6 +129,8 @@
 
 ![Alt create DataFrame object from scratch](pic/29.jpg)
 
+- Converting a dict to a DataFrame is a simple, but it is important to note the format of the dict.
+
 ## **Export CSV file from DataFrame object**
 
 ![Alt export csv from DataFrame object](pic/30.jpg)
