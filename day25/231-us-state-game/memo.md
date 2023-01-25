@@ -14,9 +14,13 @@
 
 ![Alt extract string from DataFrame object](pic/05.jpg)
 
+- Compared to getting an integer from a Series object, getting a string seems to be much more difficult.
+
 ![Alt result](pic/06.jpg)
 
 ### _build input window class_
+
+> Because of the complexity of the prompt window, it is recommended to make it a separate class.
 
 ![Alt input window class](pic/07.jpg)
 
@@ -29,6 +33,8 @@
 ### _further optimize: compare logic should be included by GuessManager_
 
 ![Alt further optimize: compare logic should be inside GuessManager](pic/10.jpg)
+
+- In fact I think class GuessedStates should also be separated into a separate file, perhaps called names_drawer or something like that, so that the GuessManager can concentrate on the logic.
 
 ## **Compare to lector's**
 
