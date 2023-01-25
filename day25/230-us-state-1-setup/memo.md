@@ -22,6 +22,8 @@
 
 ![Alt how to get x, y](pic/05.jpg)
 
+- .mainloop() is another method besides .exitonclick() to keep the screen open, in this case using .mainloop() is appropriate because we need to click on the screen to trigger the function.
+
 ![Alt result](pic/06.jpg)
 
 - It is important to check the documentation, as there may be problems with out-of-date information from google or even textbooks, but the documentation is usually updated with newer versions.
