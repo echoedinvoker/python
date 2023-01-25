@@ -23,3 +23,5 @@
 ![Alt how to get x, y](pic/05.jpg)
 
 ![Alt result](pic/06.jpg)
+
+- It is important to check the documentation, as there may be problems with out-of-date information from google or even textbooks, but the documentation is usually updated with newer versions.
