@@ -2,6 +2,8 @@
 
 ![Alt Exit](pic/01.jpg)
 
+- "break" means exit the loop.
+
 ## **Challenge: export new csv file when exit**
 
 ![Alt Challenge](pic/02.jpg)
@@ -11,6 +13,9 @@
 ### _GuessManager_
 
 ![Alt modify GuessManager](pic/03.jpg)
+
+- In fact there is no need to save the object for this challenge.
+  - so "self.guessed_states_obj" is useless, can be removed.
 
 ### _main.py_
 
@@ -23,5 +28,7 @@
 ## **Further Optimize**
 
 ![Alt](pic/06.jpg)
+
+- Let the GuessManager only concentrate on the logic of handling guesses.
 
 ![Alt](pic/07.jpg)
