@@ -27,3 +27,11 @@
 ![Alt result](pic/06.jpg)
 
 - It is important to check the documentation, as there may be problems with out-of-date information from google or even textbooks, but the documentation is usually updated with newer versions.
+
+## **Final screen adjust & Prompt window**
+
+![Alt](pic/07.jpg)
+
+- After collecting user input from the prompt window, the next lecture will challenge us to compare the data in the CSV file to produce a follow-up process.
+
+![Alt](pic/08.jpg)
