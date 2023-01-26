@@ -8,4 +8,6 @@
 
 ## **Popup documents in pyCharm**
 
+> When the mouse cursor hovers over a function/method/class for a period of time, the document will appear as bellow.
+
 ![Alt popup doc in pyCharm](pic/05.jpg)
