@@ -1,8 +1,12 @@
 ## **How to Create New List from Existed One?**
 
+> With our previous knowledge, we would use for loops to solve this problem as bellow.
+
 ![Alt original way to create new list from existed one](pic/01.jpg)
 
 ## **List Comprehension**
+
+> We can solve the same problem but using only one line...
 
 ### _Formula_
 
@@ -18,11 +22,11 @@
 
 ## **Not only for list, but also all ITERATOR**
 
+> In fact, all iterators are able to use list comprehension.
+
 ### _String_
 
 ![Alt practice string](pic/05.jpg)
-
-![Alt python sequences (iterator?)](pic/06.jpg)
 
 ### _Dictionary_
 
@@ -45,6 +49,8 @@
 ![Alt sol](pic/11.jpg)
 
 ## **Conditional List Comprehension**
+
+> list comprehension can be added to the conditions section.
 
 ### _Formula_
 
