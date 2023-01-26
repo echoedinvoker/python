@@ -30,6 +30,8 @@
 
 ## **DataFrame.iterrows()**
 
+> When we want to iterate through each rows, we must use .iterrows() instead of .items().
+
 ### _key: index of rows_
 
 ![Alt for in df.iterrows() - key](pic/07.jpg)
