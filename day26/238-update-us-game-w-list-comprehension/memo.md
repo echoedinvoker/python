@@ -4,4 +4,6 @@
 
 ## **My solution**
 
+> My codes look a lot different from lector's because I have done OOP, but I can still find places to use list comprehension.
+
 ![Alt my solution](pic/02.jpg)
