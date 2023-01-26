@@ -10,11 +10,11 @@
 
 ## **Dict_for_df.item()**
 
-### _key: String of headers_
+### _key: String of headers(keys)_
 
 ![Alt for in dict_for_df.item() - key](pic/03.jpg)
 
-### _value: List of columns_
+### _value: List of columns(values)_
 
 ![Alt for in dict_for_df.item() - value](pic/04.jpg)
 
