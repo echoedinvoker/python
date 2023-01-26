@@ -39,3 +39,6 @@
 ### _Diving in ..._
 
 ![Alt what is .item() for?](pic/10.jpg)
+
+- So you actually convert the dict into a list of tuples in order to do the comprehension.
+  - If this conversion is not done, only the keys are obtained.
