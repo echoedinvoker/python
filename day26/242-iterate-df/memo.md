@@ -43,3 +43,5 @@
 ### _Practice_
 
 ![Alt for in df.iterrows() - value - practice](pic/09.jpg)
+
+- This is a relatively common use case, but it's hard to understand how it got here.
