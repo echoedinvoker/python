@@ -18,6 +18,8 @@
 
 ![Alt solution](pic/04.jpg)
 
+- Now no matter how many arguments we pass into add(), it can always calculate the sum.
+
 ## **Unlimited Arguments are Positional**
 
 ### _Practice to prove that arguments are positional_
