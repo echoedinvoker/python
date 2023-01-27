@@ -2,11 +2,16 @@
 
 ![Alt regroup script for better scene](pic/01.jpg)
 
+- It just makes the structure of the script clearer, so that the following explanation is easier to follow.
+- The next three arrangements of Tkinter widgets are described.
+
 ## **.pack()**
 
 ![Alt .pack()](pic/02.jpg)
 
 ![Alt side=](pic/03.jpg)
+
+- The disadvantage of pack() is that it is difficult to define the exact position.
 
 ## **.place()**
 
@@ -14,11 +19,15 @@
 
 ![Alt x=100, y=300](pic/05.jpg)
 
+- The disadvantage of place() is that it can be very difficult to use when there are too many widgets.
+
 ### _mix use with pack()_
 
 ![Alt mix .pack() with .place()](pic/06.jpg)
 
 ## **.grid()**
+
+> This is lector's favourite arrangement way.
 
 ### _concept of grid_
 
