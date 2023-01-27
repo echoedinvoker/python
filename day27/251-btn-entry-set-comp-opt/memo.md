@@ -12,11 +12,15 @@
 
 ### _Checking documents for options_
 
+> Instead of Python documents, Tcl/Tk documents will list all options.
+
 ![Alt check tcl/tk documents](pic/03.jpg)
 
 ### _Create Button component_
 
 ![Alt create button component](pic/04.jpg)
+
+- Because all components are under the tkinter namespace, it is common to use "import tkinter as tk" or "from tkinter import \*" to reduce repetition of "tkinter".
 
 ### _Create function of button_
 
@@ -49,6 +53,8 @@
 ![Alt use it but not work ideally](pic/13.jpg)
 
 ### _Fix the problem_
+
+> The above "my_label.config(text=input.get())" should not be executed at the beginning, but should be triggered by an event, which we can achieve with Button.
 
 ![Alt fix  the problem](pic/14.jpg)
 
