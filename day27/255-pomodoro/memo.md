@@ -2,6 +2,8 @@
 
 ![Alt prepare files](pic/01.jpg)
 
+- Above is lector's prepared file and pictures.
+
 ## **Class Pomodoro & Hold the simple window**
 
 ![Alt class Pomodoro & hold window](pic/02.jpg)
