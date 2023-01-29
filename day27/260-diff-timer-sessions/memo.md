@@ -62,7 +62,7 @@
 
 ![Alt challenge: diff label during diff sessions](pic/13.jpg)
 
-### _Logic & Method for increasing readibility_
+### _Logic & Using method for increasing readibility_
 
 ![Alt create render_title() and use it to render labels](pic/14.jpg)
 
