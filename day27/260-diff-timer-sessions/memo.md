@@ -80,6 +80,8 @@
 
 ## **Optimize**
 
+> There are some repetitive values above, it is better to set them as constants, so as to increase readability and avoid future bugs.
+
 ![Alt more constants](pic/18.jpg)
 
 ![Alt replace with constants 1](pic/19.jpg)
