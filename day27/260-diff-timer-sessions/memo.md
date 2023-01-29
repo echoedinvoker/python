@@ -26,6 +26,8 @@
 
 ![Alt record .after id and cancel it](pic/06.jpg)
 
+- This part is somewhat similar to JavaScript's setTimer.
+
 ## **Challenge: Various number of marks According to Different Sessions**
 
 ### _New Attribute_
@@ -44,7 +46,7 @@
 
 ![Alt test it and works fine](pic/10.jpg)
 
-## \*\*Challenge: Reset(())
+## **Challenge: Reset**
 
 ### _Reset logic_
 
